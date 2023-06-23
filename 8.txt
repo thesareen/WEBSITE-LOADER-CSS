@@ -1,0 +1,1 @@
+Loader is the circle appearing when some webpage is loading
